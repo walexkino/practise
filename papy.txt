@@ -2,3 +2,8 @@ My investigation as regards temp storage;
 Several common Windows locations are using temporary storage on the local machine. For instance
 •	%APPDATA% points to something like D:\local\AppData.
 •	%TMP% goes to D:\local\Temp.
+
+
+
+
+I will like to edit a file 
